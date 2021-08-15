@@ -1,2 +1,2 @@
-# cardio_bulkRNAseq
+# MAGNET Bulk RNA-Seq
 To be written!
