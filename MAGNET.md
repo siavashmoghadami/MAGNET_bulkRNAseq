@@ -1,2 +1,2 @@
-# MAGNET Project Pipeline
+# MAGNET Project
 To be written!
