@@ -1,2 +1,2 @@
-# MAGNET Bulk RNA-Seq
+# Bulk RNA-Seq Pipeline
 To be written!
