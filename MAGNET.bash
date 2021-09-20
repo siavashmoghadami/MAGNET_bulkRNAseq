@@ -5,7 +5,7 @@
 #kallisto index -i /home/simoghad/genome_ref/genome/index/kallistoTX_homoSapien/Homo_sapiens.GRCh38.cdna.all.index /home/simoghad/genome_ref/genome/reference/homoSapien/Homo_sapiens.GRCh38.cdna.all.fa
 #------------------------------------------------------------------------------------------------
 # Download the fastq files
-for i in {10676839..10677171}
+for i in {10676839..10677186}
 do
 /home/simoghad/sratoolkit.2.11.1-centos_linux64/bin/fasterq-dump-orig.2.11.1 SRR$i -O /oasis/tscc/scratch/simoghad/magnet/fastq -e 72
 
